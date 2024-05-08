@@ -1,6 +1,6 @@
 # FastKGE
 
-The codes and datasets for "Fast and Continual Knowledge Graph Embedding via Incremental LoRA". [IJCAI 2014]
+The codes and datasets for "Fast and Continual Knowledge Graph Embedding via Incremental LoRA". [IJCAI 2024]
 
 ## Framework
 
